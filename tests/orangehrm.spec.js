@@ -1,6 +1,5 @@
-const {test, expect} = require('@playwright/test');
-
-test.use({headless:false, slowMo:100})
+import { test, expect } from '@playwright/test';
+import { chromium } from 'playwright';
 
 test("validate OrangeHRM login", async function({page}){
     await page.goto("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login")    
@@ -12,6 +11,8 @@ test("validate OrangeHRM login", async function({page}){
     await page.getByAltText("profile picture").first().click()
     await page.screenshot({path:"screenshot/orangehrm.png", fullPage:true})
     await page.getByText("Logout").click()
+    await page.waitForTimeout(1000)
+    await page.close()
 
 })
 

@@ -1,4 +1,5 @@
 import { test, expect } from '@playwright/test';
+import { chromium } from 'playwright';
 
 test('Login Test by Recording', async ({ page }) => {
   await page.goto('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login');
@@ -10,4 +11,6 @@ test('Login Test by Recording', async ({ page }) => {
   await page.getByRole('link', { name: 'Dashboard' }).click();
   await page.getByRole('banner').getByRole('img', { name: 'profile picture' }).click();
   await page.getByRole('menuitem', { name: 'Logout' }).click();
+  await page.waitForTimeout(1000)
+  await page.close()
 });
