@@ -15,7 +15,7 @@ test("Handle Auto Suggestion", async ({ page }) => {
   page.close()
 });
 
-test.only("Handle Auto Suggestion Using Loop", async ({ page }) => {
+test("Handle Auto Suggestion Using Loop", async ({ page }) => {
   await page.goto("https://www.google.com/")
   await page.locator("textarea[name='q']").focus()
   await page.keyboard.type("Playwright")
