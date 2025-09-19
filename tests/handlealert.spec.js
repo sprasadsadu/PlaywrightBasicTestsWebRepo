@@ -42,7 +42,7 @@ await page.close()
 
 });
 
-test.only("Handle Prompt - JS Message", async ({page}) => {
+test("Handle Prompt - JS Message", async ({page}) => {
 await page.goto("https://the-internet.herokuapp.com/javascript_alerts")    
 
 page.on('dialog', async (prompt) => {
