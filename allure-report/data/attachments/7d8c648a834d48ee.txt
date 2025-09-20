@@ -1,0 +1,2 @@
+You successfully clicked an alert
+Alert handled successfully
