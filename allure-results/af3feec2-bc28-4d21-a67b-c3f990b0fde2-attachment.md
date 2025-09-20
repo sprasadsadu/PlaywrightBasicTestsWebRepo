@@ -1,0 +1,569 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e3]:
+  - navigation [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e6] [cursor=pointer]:
+        - img "logo" [ref=e7] [cursor=pointer]
+        - heading "Learn Automation Courses" [level=1] [ref=e8] [cursor=pointer]
+      - generic [ref=e9]:
+        - button "Cart" [ref=e10] [cursor=pointer]
+        - generic [ref=e12] [cursor=pointer]: Manage
+        - img "menu" [ref=e13] [cursor=pointer]
+        - generic [ref=e14]:
+          - generic [ref=e15]:
+            - text: Learn Automation Courses
+            - img "delete" [ref=e16] [cursor=pointer]
+          - generic [ref=e17]:
+            - link "Home" [ref=e18] [cursor=pointer]:
+              - /url: /
+              - generic [ref=e19] [cursor=pointer]: Home
+            - link "Practise" [ref=e20] [cursor=pointer]:
+              - /url: /practise
+              - generic [ref=e21] [cursor=pointer]: Practise
+            - button "Sign out" [ref=e22] [cursor=pointer]
+  - generic [ref=e25]:
+    - generic [ref=e29]:
+      - generic [ref=e30]:
+        - heading "Java For Tester" [level=2] [ref=e31]
+        - paragraph [ref=e32]: Java For Tester...
+      - generic [ref=e33]:
+        - img "instructor" [ref=e34]
+        - text: Mukesh Otwani
+      - generic [ref=e35]:
+        - img "clock" [ref=e36]
+        - generic [ref=e37]: "Start:"
+        - text: Mon Feb 17 2025
+      - generic [ref=e38]:
+        - img "clock" [ref=e39]
+        - generic [ref=e40]: "Finish:"
+        - text: Mon Mar 17 2025
+      - generic [ref=e41]:
+        - text: "Price:"
+        - generic [ref=e42]: ₹500
+      - button "Add to Cart right arrow" [ref=e43] [cursor=pointer]:
+        - text: Add to Cart
+        - img "right arrow" [ref=e44] [cursor=pointer]
+    - generic [ref=e48]:
+      - generic [ref=e49]:
+        - heading "Selenium For Web Automation" [level=2] [ref=e50]
+        - paragraph [ref=e51]: Selenium For Web Automation...
+      - generic [ref=e52]:
+        - img "instructor" [ref=e53]
+        - text: Mukesh Otwani
+      - generic [ref=e54]:
+        - img "clock" [ref=e55]
+        - generic [ref=e56]: "Start:"
+        - text: Mon Feb 17 2025
+      - generic [ref=e57]:
+        - img "clock" [ref=e58]
+        - generic [ref=e59]: "Finish:"
+        - text: Mon Mar 17 2025
+      - generic [ref=e60]:
+        - text: "Price:"
+        - generic [ref=e61]: ₹1500
+      - button "Add to Cart right arrow" [ref=e62] [cursor=pointer]:
+        - text: Add to Cart
+        - img "right arrow" [ref=e63] [cursor=pointer]
+    - generic [ref=e67]:
+      - generic [ref=e68]:
+        - heading "playwrigthdeletememanual" [level=2] [ref=e69]
+        - paragraph [ref=e70]: delete me...
+      - generic [ref=e71]:
+        - img "instructor" [ref=e72]
+        - text: ferg
+      - generic [ref=e73]:
+        - img "clock" [ref=e74]
+        - generic [ref=e75]: "Start:"
+        - text: Fri Oct 10 2025
+      - generic [ref=e76]:
+        - img "clock" [ref=e77]
+        - generic [ref=e78]: "Finish:"
+        - text: Fri Oct 10 2025
+      - generic [ref=e79]:
+        - text: "Price:"
+        - generic [ref=e80]: ₹999
+      - button "Add to Cart right arrow" [ref=e81] [cursor=pointer]:
+        - text: Add to Cart
+        - img "right arrow" [ref=e82] [cursor=pointer]
+    - generic [ref=e86]:
+      - generic [ref=e87]:
+        - heading "Sample Course 1757604721147" [level=2] [ref=e88]
+        - paragraph [ref=e89]: Sample Course Description...
+      - generic [ref=e90]:
+        - img "instructor" [ref=e91]
+        - text: Sahil
+      - generic [ref=e92]:
+        - img "clock" [ref=e93]
+        - generic [ref=e94]: "Start:"
+        - text: Mon Sep 22 2025
+      - generic [ref=e95]:
+        - img "clock" [ref=e96]
+        - generic [ref=e97]: "Finish:"
+        - text: Sun Oct 12 2025
+      - generic [ref=e98]:
+        - text: "Price:"
+        - generic [ref=e99]: ₹500
+      - button "Add to Cart right arrow" [ref=e100] [cursor=pointer]:
+        - text: Add to Cart
+        - img "right arrow" [ref=e101] [cursor=pointer]
+    - generic [ref=e105]:
+      - generic [ref=e106]:
+        - heading "play test" [level=2] [ref=e107]
+        - paragraph [ref=e108]: play automation test...
+      - generic [ref=e109]:
+        - img "instructor" [ref=e110]
+        - text: tech
+      - generic [ref=e111]:
+        - img "clock" [ref=e112]
+        - generic [ref=e113]: "Start:"
+        - text: Sun Oct 12 2025
+      - generic [ref=e114]:
+        - img "clock" [ref=e115]
+        - generic [ref=e116]: "Finish:"
+        - text: Wed Nov 12 2025
+      - generic [ref=e117]:
+        - text: "Price:"
+        - generic [ref=e118]: ₹9999
+      - button "Add to Cart right arrow" [ref=e119] [cursor=pointer]:
+        - text: Add to Cart
+        - img "right arrow" [ref=e120] [cursor=pointer]
+    - generic [ref=e124]:
+      - generic [ref=e125]:
+        - heading "Playwright checkpoint 35" [level=2] [ref=e126]
+        - paragraph [ref=e127]: Automation Playwright Adv checkpoint 35...
+      - generic [ref=e128]:
+        - img "instructor" [ref=e129]
+        - text: Tech Thread
+      - generic [ref=e130]:
+        - img "clock" [ref=e131]
+        - generic [ref=e132]: "Start:"
+        - text: Mon Oct 13 2025
+      - generic [ref=e133]:
+        - img "clock" [ref=e134]
+        - generic [ref=e135]: "Finish:"
+        - text: Thu Nov 13 2025
+      - generic [ref=e136]:
+        - text: "Price:"
+        - generic [ref=e137]: ₹9999
+      - button "Add to Cart right arrow" [ref=e138] [cursor=pointer]:
+        - text: Add to Cart
+        - img "right arrow" [ref=e139] [cursor=pointer]
+    - generic [ref=e143]:
+      - generic [ref=e144]:
+        - heading "Playwright checkpoint 35-2" [level=2] [ref=e145]
+        - paragraph [ref=e146]: Automation Playwright Adv checkpoint 35...
+      - generic [ref=e147]:
+        - img "instructor" [ref=e148]
+        - text: Tech Thread
+      - generic [ref=e149]:
+        - img "clock" [ref=e150]
+        - generic [ref=e151]: "Start:"
+        - text: Mon Oct 13 2025
+      - generic [ref=e152]:
+        - img "clock" [ref=e153]
+        - generic [ref=e154]: "Finish:"
+        - text: Thu Nov 13 2025
+      - generic [ref=e155]:
+        - text: "Price:"
+        - generic [ref=e156]: ₹9999
+      - button "Add to Cart right arrow" [ref=e157] [cursor=pointer]:
+        - text: Add to Cart
+        - img "right arrow" [ref=e158] [cursor=pointer]
+    - generic [ref=e162]:
+      - generic [ref=e163]:
+        - heading "Test manual" [level=2] [ref=e164]
+        - paragraph [ref=e165]: testing...
+      - generic [ref=e166]:
+        - img "instructor" [ref=e167]
+        - text: tester
+      - generic [ref=e168]:
+        - img "clock" [ref=e169]
+        - generic [ref=e170]: "Start:"
+        - text: Sat Sep 13 2025
+      - generic [ref=e171]:
+        - img "clock" [ref=e172]
+        - generic [ref=e173]: "Finish:"
+        - text: Mon Oct 13 2025
+      - generic [ref=e174]:
+        - text: "Price:"
+        - generic [ref=e175]: ₹9888
+      - button "Add to Cart right arrow" [ref=e176] [cursor=pointer]:
+        - text: Add to Cart
+        - img "right arrow" [ref=e177] [cursor=pointer]
+    - generic [ref=e181]:
+      - generic [ref=e182]:
+        - heading "Playwright Checkpoint 35-3" [level=2] [ref=e183]
+        - paragraph [ref=e184]: Automation Playwright Adv checkpoint 35...
+      - generic [ref=e185]:
+        - img "instructor" [ref=e186]
+        - text: Tech Thread
+      - generic [ref=e187]:
+        - img "clock" [ref=e188]
+        - generic [ref=e189]: "Start:"
+        - text: Mon Oct 13 2025
+      - generic [ref=e190]:
+        - img "clock" [ref=e191]
+        - generic [ref=e192]: "Finish:"
+        - text: Thu Nov 13 2025
+      - generic [ref=e193]:
+        - text: "Price:"
+        - generic [ref=e194]: ₹9999
+      - button "Add to Cart right arrow" [ref=e195] [cursor=pointer]:
+        - text: Add to Cart
+        - img "right arrow" [ref=e196] [cursor=pointer]
+    - generic [ref=e200]:
+      - generic [ref=e201]:
+        - heading "Playwright Fg Checkpoint 35" [level=2] [ref=e202]
+        - paragraph [ref=e203]: Automation Playwright Adv checkpoint 35...
+      - generic [ref=e204]:
+        - img "instructor" [ref=e205]
+        - text: Tech Thread
+      - generic [ref=e206]:
+        - img "clock" [ref=e207]
+        - generic [ref=e208]: "Start:"
+        - text: Mon Oct 13 2025
+      - generic [ref=e209]:
+        - img "clock" [ref=e210]
+        - generic [ref=e211]: "Finish:"
+        - text: Thu Nov 13 2025
+      - generic [ref=e212]:
+        - text: "Price:"
+        - generic [ref=e213]: ₹9999
+      - button "Add to Cart right arrow" [ref=e214] [cursor=pointer]:
+        - text: Add to Cart
+        - img "right arrow" [ref=e215] [cursor=pointer]
+    - generic [ref=e219]:
+      - generic [ref=e220]:
+        - heading "My Playwright Fg Checkpoint 35" [level=2] [ref=e221]
+        - paragraph [ref=e222]: Automation Playwright Adv checkpoint 35...
+      - generic [ref=e223]:
+        - img "instructor" [ref=e224]
+        - text: Tech Thread
+      - generic [ref=e225]:
+        - img "clock" [ref=e226]
+        - generic [ref=e227]: "Start:"
+        - text: Mon Oct 13 2025
+      - generic [ref=e228]:
+        - img "clock" [ref=e229]
+        - generic [ref=e230]: "Finish:"
+        - text: Thu Nov 13 2025
+      - generic [ref=e231]:
+        - text: "Price:"
+        - generic [ref=e232]: ₹9999
+      - button "Add to Cart right arrow" [ref=e233] [cursor=pointer]:
+        - text: Add to Cart
+        - img "right arrow" [ref=e234] [cursor=pointer]
+    - generic [ref=e238]:
+      - generic [ref=e239]:
+        - heading "Semi Playwright Fg Checkpoint 35" [level=2] [ref=e240]
+        - paragraph [ref=e241]: Automation Playwright Adv checkpoint 35...
+      - generic [ref=e242]:
+        - img "instructor" [ref=e243]
+        - text: Tech Thread
+      - generic [ref=e244]:
+        - img "clock" [ref=e245]
+        - generic [ref=e246]: "Start:"
+        - text: Mon Oct 13 2025
+      - generic [ref=e247]:
+        - img "clock" [ref=e248]
+        - generic [ref=e249]: "Finish:"
+        - text: Thu Nov 13 2025
+      - generic [ref=e250]:
+        - text: "Price:"
+        - generic [ref=e251]: ₹9999
+      - button "Add to Cart right arrow" [ref=e252] [cursor=pointer]:
+        - text: Add to Cart
+        - img "right arrow" [ref=e253] [cursor=pointer]
+    - generic [ref=e257]:
+      - generic [ref=e258]:
+        - heading "Semy Playwright Fg Checkpoint 35" [level=2] [ref=e259]
+        - paragraph [ref=e260]: Automation Playwright Adv checkpoint 35...
+      - generic [ref=e261]:
+        - img "instructor" [ref=e262]
+        - text: Tech Thread
+      - generic [ref=e263]:
+        - img "clock" [ref=e264]
+        - generic [ref=e265]: "Start:"
+        - text: Mon Oct 13 2025
+      - generic [ref=e266]:
+        - img "clock" [ref=e267]
+        - generic [ref=e268]: "Finish:"
+        - text: Thu Nov 13 2025
+      - generic [ref=e269]:
+        - text: "Price:"
+        - generic [ref=e270]: ₹9999
+      - button "Add to Cart right arrow" [ref=e271] [cursor=pointer]:
+        - text: Add to Cart
+        - img "right arrow" [ref=e272] [cursor=pointer]
+    - generic [ref=e276]:
+      - generic [ref=e277]:
+        - heading "Playwright Fgs Checkpoint 35" [level=2] [ref=e278]
+        - paragraph [ref=e279]: Automation Playwright Adv checkpoint 35...
+      - generic [ref=e280]:
+        - img "instructor" [ref=e281]
+        - text: Tech Thread
+      - generic [ref=e282]:
+        - img "clock" [ref=e283]
+        - generic [ref=e284]: "Start:"
+        - text: Mon Oct 13 2025
+      - generic [ref=e285]:
+        - img "clock" [ref=e286]
+        - generic [ref=e287]: "Finish:"
+        - text: Thu Nov 13 2025
+      - generic [ref=e288]:
+        - text: "Price:"
+        - generic [ref=e289]: ₹9999
+      - button "Add to Cart right arrow" [ref=e290] [cursor=pointer]:
+        - text: Add to Cart
+        - img "right arrow" [ref=e291] [cursor=pointer]
+    - generic [ref=e295]:
+      - generic [ref=e296]:
+        - heading "Playwright Semi Checkpoint 35" [level=2] [ref=e297]
+        - paragraph [ref=e298]: Automation Playwright Adv checkpoint 35...
+      - generic [ref=e299]:
+        - img "instructor" [ref=e300]
+        - text: Tech Thread
+      - generic [ref=e301]:
+        - img "clock" [ref=e302]
+        - generic [ref=e303]: "Start:"
+        - text: Mon Oct 13 2025
+      - generic [ref=e304]:
+        - img "clock" [ref=e305]
+        - generic [ref=e306]: "Finish:"
+        - text: Thu Nov 13 2025
+      - generic [ref=e307]:
+        - text: "Price:"
+        - generic [ref=e308]: ₹9999
+      - button "Add to Cart right arrow" [ref=e309] [cursor=pointer]:
+        - text: Add to Cart
+        - img "right arrow" [ref=e310] [cursor=pointer]
+    - generic [ref=e314]:
+      - generic [ref=e315]:
+        - heading "Playwright Two Checkpoint 35" [level=2] [ref=e316]
+        - paragraph [ref=e317]: Automation Playwright Adv checkpoint 35...
+      - generic [ref=e318]:
+        - img "instructor" [ref=e319]
+        - text: Tech Thread
+      - generic [ref=e320]:
+        - img "clock" [ref=e321]
+        - generic [ref=e322]: "Start:"
+        - text: Mon Oct 13 2025
+      - generic [ref=e323]:
+        - img "clock" [ref=e324]
+        - generic [ref=e325]: "Finish:"
+        - text: Thu Nov 13 2025
+      - generic [ref=e326]:
+        - text: "Price:"
+        - generic [ref=e327]: ₹9999
+      - button "Add to Cart right arrow" [ref=e328] [cursor=pointer]:
+        - text: Add to Cart
+        - img "right arrow" [ref=e329] [cursor=pointer]
+    - generic [ref=e333]:
+      - generic [ref=e334]:
+        - heading "Playwright Duo Checkpoint 35" [level=2] [ref=e335]
+        - paragraph [ref=e336]: Automation Playwright Adv checkpoint 35...
+      - generic [ref=e337]:
+        - img "instructor" [ref=e338]
+        - text: Tech Thread
+      - generic [ref=e339]:
+        - img "clock" [ref=e340]
+        - generic [ref=e341]: "Start:"
+        - text: Mon Oct 13 2025
+      - generic [ref=e342]:
+        - img "clock" [ref=e343]
+        - generic [ref=e344]: "Finish:"
+        - text: Thu Nov 13 2025
+      - generic [ref=e345]:
+        - text: "Price:"
+        - generic [ref=e346]: ₹9999
+      - button "Add to Cart right arrow" [ref=e347] [cursor=pointer]:
+        - text: Add to Cart
+        - img "right arrow" [ref=e348] [cursor=pointer]
+    - generic [ref=e352]:
+      - generic [ref=e353]:
+        - heading "Playwright Duk Checkpoint 35" [level=2] [ref=e354]
+        - paragraph [ref=e355]: Automation Playwright Adv checkpoint 35...
+      - generic [ref=e356]:
+        - img "instructor" [ref=e357]
+        - text: Tech Thread
+      - generic [ref=e358]:
+        - img "clock" [ref=e359]
+        - generic [ref=e360]: "Start:"
+        - text: Mon Oct 13 2025
+      - generic [ref=e361]:
+        - img "clock" [ref=e362]
+        - generic [ref=e363]: "Finish:"
+        - text: Thu Nov 13 2025
+      - generic [ref=e364]:
+        - text: "Price:"
+        - generic [ref=e365]: ₹9999
+      - button "Add to Cart right arrow" [ref=e366] [cursor=pointer]:
+        - text: Add to Cart
+        - img "right arrow" [ref=e367] [cursor=pointer]
+    - generic [ref=e371]:
+      - generic [ref=e372]:
+        - heading "Playwright Dum Checkpoint 35" [level=2] [ref=e373]
+        - paragraph [ref=e374]: Automation Playwright Adv checkpoint 35...
+      - generic [ref=e375]:
+        - img "instructor" [ref=e376]
+        - text: Tech Thread
+      - generic [ref=e377]:
+        - img "clock" [ref=e378]
+        - generic [ref=e379]: "Start:"
+        - text: Mon Oct 13 2025
+      - generic [ref=e380]:
+        - img "clock" [ref=e381]
+        - generic [ref=e382]: "Finish:"
+        - text: Thu Nov 13 2025
+      - generic [ref=e383]:
+        - text: "Price:"
+        - generic [ref=e384]: ₹9999
+      - button "Add to Cart right arrow" [ref=e385] [cursor=pointer]:
+        - text: Add to Cart
+        - img "right arrow" [ref=e386] [cursor=pointer]
+    - generic [ref=e390]:
+      - generic [ref=e391]:
+        - heading "Playwright Trio Checkpoint 35" [level=2] [ref=e392]
+        - paragraph [ref=e393]: Automation Playwright Adv checkpoint 35...
+      - generic [ref=e394]:
+        - img "instructor" [ref=e395]
+        - text: Tech Thread
+      - generic [ref=e396]:
+        - img "clock" [ref=e397]
+        - generic [ref=e398]: "Start:"
+        - text: Sat Oct 18 2025
+      - generic [ref=e399]:
+        - img "clock" [ref=e400]
+        - generic [ref=e401]: "Finish:"
+        - text: Tue Nov 18 2025
+      - generic [ref=e402]:
+        - text: "Price:"
+        - generic [ref=e403]: ₹9999
+      - button "Add to Cart right arrow" [ref=e404] [cursor=pointer]:
+        - text: Add to Cart
+        - img "right arrow" [ref=e405] [cursor=pointer]
+    - generic [ref=e409]:
+      - generic [ref=e410]:
+        - heading "Playwright Auto Test" [level=2] [ref=e411]
+        - paragraph [ref=e412]: Automation Playwright Adv checkpoint 35...
+      - generic [ref=e413]:
+        - img "instructor" [ref=e414]
+        - text: Tech Thread
+      - generic [ref=e415]:
+        - img "clock" [ref=e416]
+        - generic [ref=e417]: "Start:"
+        - text: Sat Oct 18 2025
+      - generic [ref=e418]:
+        - img "clock" [ref=e419]
+        - generic [ref=e420]: "Finish:"
+        - text: Tue Nov 18 2025
+      - generic [ref=e421]:
+        - text: "Price:"
+        - generic [ref=e422]: ₹9999
+      - button "Add to Cart right arrow" [ref=e423] [cursor=pointer]:
+        - text: Add to Cart
+        - img "right arrow" [ref=e424] [cursor=pointer]
+    - generic [ref=e428]:
+      - generic [ref=e429]:
+        - heading "Playwright Two Auto Test" [level=2] [ref=e430]
+        - paragraph [ref=e431]: Automation Playwright Adv checkpoint 35...
+      - generic [ref=e432]:
+        - img "instructor" [ref=e433]
+        - text: Tech Thread
+      - generic [ref=e434]:
+        - img "clock" [ref=e435]
+        - generic [ref=e436]: "Start:"
+        - text: Sat Oct 18 2025
+      - generic [ref=e437]:
+        - img "clock" [ref=e438]
+        - generic [ref=e439]: "Finish:"
+        - text: Tue Nov 18 2025
+      - generic [ref=e440]:
+        - text: "Price:"
+        - generic [ref=e441]: ₹9999
+      - button "Add to Cart right arrow" [ref=e442] [cursor=pointer]:
+        - text: Add to Cart
+        - img "right arrow" [ref=e443] [cursor=pointer]
+    - generic [ref=e447]:
+      - generic [ref=e448]:
+        - heading "Playwright Three Auto Test" [level=2] [ref=e449]
+        - paragraph [ref=e450]: Automation Playwright Adv checkpoint 35...
+      - generic [ref=e451]:
+        - img "instructor" [ref=e452]
+        - text: Tech Thread
+      - generic [ref=e453]:
+        - img "clock" [ref=e454]
+        - generic [ref=e455]: "Start:"
+        - text: Sat Oct 18 2025
+      - generic [ref=e456]:
+        - img "clock" [ref=e457]
+        - generic [ref=e458]: "Finish:"
+        - text: Tue Nov 18 2025
+      - generic [ref=e459]:
+        - text: "Price:"
+        - generic [ref=e460]: ₹9999
+      - button "Add to Cart right arrow" [ref=e461] [cursor=pointer]:
+        - text: Add to Cart
+        - img "right arrow" [ref=e462] [cursor=pointer]
+    - generic [ref=e466]:
+      - generic [ref=e467]:
+        - heading "Playwright Four Auto Test" [level=2] [ref=e468]
+        - paragraph [ref=e469]: Automation Playwright Adv checkpoint 35...
+      - generic [ref=e470]:
+        - img "instructor" [ref=e471]
+        - text: Tech Thread
+      - generic [ref=e472]:
+        - img "clock" [ref=e473]
+        - generic [ref=e474]: "Start:"
+        - text: Sat Oct 18 2025
+      - generic [ref=e475]:
+        - img "clock" [ref=e476]
+        - generic [ref=e477]: "Finish:"
+        - text: Tue Nov 18 2025
+      - generic [ref=e478]:
+        - text: "Price:"
+        - generic [ref=e479]: ₹9999
+      - button "Add to Cart right arrow" [ref=e480] [cursor=pointer]:
+        - text: Add to Cart
+        - img "right arrow" [ref=e481] [cursor=pointer]
+    - generic [ref=e485]:
+      - generic [ref=e486]:
+        - heading "Playwright Five Auto Test" [level=2] [ref=e487]
+        - paragraph [ref=e488]: Automation Playwright Adv checkpoint 35...
+      - generic [ref=e489]:
+        - img "instructor" [ref=e490]
+        - text: Tech Thread
+      - generic [ref=e491]:
+        - img "clock" [ref=e492]
+        - generic [ref=e493]: "Start:"
+        - text: Mon Oct 20 2025
+      - generic [ref=e494]:
+        - img "clock" [ref=e495]
+        - generic [ref=e496]: "Finish:"
+        - text: Thu Nov 20 2025
+      - generic [ref=e497]:
+        - text: "Price:"
+        - generic [ref=e498]: ₹9999
+      - button "Add to Cart right arrow" [ref=e499] [cursor=pointer]:
+        - text: Add to Cart
+        - img "right arrow" [ref=e500] [cursor=pointer]
+  - generic [ref=e502]:
+    - generic [ref=e503]:
+      - heading "Learn Automation By Mukesh Otwani" [level=3] [ref=e504]
+      - heading "©2023 All rights reserved" [level=2] [ref=e505]
+    - generic [ref=e506] [cursor=pointer]:
+      - link [ref=e507] [cursor=pointer]:
+        - /url: https://youtube.com/MukeshOtwani
+        - img [ref=e508] [cursor=pointer]
+      - link [ref=e511] [cursor=pointer]:
+        - /url: https://twitter.com/MukeshOtwani
+        - img [ref=e512] [cursor=pointer]
+      - link [ref=e514] [cursor=pointer]:
+        - /url: https://www.linkedin.com/in/mukesh-otwani-93631b99/
+        - img [ref=e515] [cursor=pointer]
+      - link [ref=e517] [cursor=pointer]:
+        - /url: https://www.facebook.com/groups/256655817858291
+        - img [ref=e518] [cursor=pointer]
+```

@@ -1,0 +1,2 @@
+You clicked: Ok
+Alert was Confirmed

@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","4295","Handle Alert Popups - JS Confirm","chromium","Fri Sep 19 21:14:09 AEST 2025","passed","Fri Sep 19 21:14:13 AEST 2025","","handlealert.spec.js","",""
+"","4106","Handle Prompt - JS Message","chromium","Fri Sep 19 21:14:09 AEST 2025","passed","Fri Sep 19 21:14:13 AEST 2025","","handlealert.spec.js","",""
+"","4225","Handle Alert Popups - JS Alert","chromium","Fri Sep 19 21:14:09 AEST 2025","passed","Fri Sep 19 21:14:13 AEST 2025","","handlealert.spec.js","",""
